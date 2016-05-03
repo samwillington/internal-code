@@ -10,7 +10,6 @@ local ADMINS =
 	adamintygum = 1,
 	androidtest = 1,
 	robloxfrenchie = 1,
-	jackssmirkingrevenge = 1,
 	lindapepita = 1,
 	vaiobot = 1,
 	goddessnoob = 1,
